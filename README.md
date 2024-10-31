@@ -16,7 +16,7 @@
 
 ---
 
-### 📫 About Me
+### Hi there 👋
 I’m currently pursuing a Master's degree in **Computer Engineering**, specializing in **Big Data** and **Cloud Computing**. With a background in freelance development, I’ve built dynamic websites using **WordPress** and other CMS platforms. Now, I’m focused on mastering **full-stack development**.
 
 - 🌍 Languages: Fluent in English, French, and Arabic
