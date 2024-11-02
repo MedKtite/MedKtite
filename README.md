@@ -1,10 +1,10 @@
 <div align="center">
 
-<h1 style="color:#532CACFF;">💼 KTITE Mohammed</h1>
+<h1 style="color:#532CACFF;">KTITE Mohammed</h1>
 
-<p>
+<p align="center" >
   <a href="https://github.com/MedKtite">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=2000&color=532CAC&width=589&lines=%F0%9F%92%BB++Aspiring+Full-Stack+Developer" alt="Typing SVG" /> 
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&pause=1000&color=8853B1&width=435&lines=Dedicated+Full-Stack+Developer" alt="Typing SVG" /> 
   </a>
 </p>
 
